@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\condicionales\condicionales\bin\Debug\condicionales.exe.config
+C:\Users\Dell\source\repos\condicionales\condicionales\bin\Debug\condicionales.exe
+C:\Users\Dell\source\repos\condicionales\condicionales\bin\Debug\condicionales.pdb
+C:\Users\Dell\source\repos\condicionales\condicionales\obj\Debug\condicionales.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\condicionales\condicionales\obj\Debug\condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\condicionales\condicionales\obj\Debug\condicionales.exe
+C:\Users\Dell\source\repos\condicionales\condicionales\obj\Debug\condicionales.pdb
